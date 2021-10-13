@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c7b0bef-eacb-4537-ba26-ee28bcdddc39": {
+      "ProjectGuid": "0c7b0bef-eacb-4537-ba26-ee28bcdddc39",
+      "DisplayName": "GameOfLifeForm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
