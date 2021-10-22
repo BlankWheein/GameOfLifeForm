@@ -15,7 +15,7 @@ namespace GameOfLifeForm
         public int cols;
         public int rows;
         Random rnd = new();
-        public int Resolution = 2;
+        public int Resolution = 1;
         BackgroundWorker bgWorker = new();
         Bitmap drawingSurface;
         Graphics? GFX;
